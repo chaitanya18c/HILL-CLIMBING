@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
+<h1>Ex 5 : Implement Simple Hill Climbing Algorithm</h1> 
 <h3>Name:  CHAITANYA P S           </h3>
 <h3>Register Number:  212222230024        </h3>
 <H3>Aim:</H3>
